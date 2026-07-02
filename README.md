@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-en%20formaci%C3%B3n-brightgreen" />
-  <img src="https://img.shields.io/badge/english-B2%2FC1-blue" />
+  <img src="https://img.shields.io/badge/english-A1%2FA2-blue" />
 </p>
 
 ---
